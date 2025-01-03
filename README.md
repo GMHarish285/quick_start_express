@@ -52,7 +52,19 @@ qse init
 ### Output
 
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/7e246ad7-add4-479a-9970-e3d79e8480ac" width="800px"/>
+   <img src="https://github.com/user-attachments/assets/84e2fc79-9b88-4817-baf4-56845d5ee756" width="800px"/>
+</div>
+
+<br>Initialize without nodemon.<br>
+
+```bash
+qse init --remove-nodemon
+```
+
+### Output
+
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/279b2de6-4360-4399-aa98-cd9d17ca330f" width="800px"/>
 </div>
 
 ## Clear
